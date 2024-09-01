@@ -1,0 +1,14 @@
+.navButton{
+    border: none;
+    background-color: #000;
+    font-size: 17px;
+    color: #848895;
+    font-family:"roboto";
+    font-style: normal;
+    width: 120px;
+    height: 70px;
+    transition: 600ms;
+}
+.navButton:hover{
+    color: #E6E6E6;
+}

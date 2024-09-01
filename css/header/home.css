@@ -1,0 +1,9 @@
+.Home{
+    width: 405px;
+    height: 253px;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    margin-top: 134px;
+    margin-left: 242px;
+}

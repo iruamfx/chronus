@@ -1,0 +1,19 @@
+
+.buttonHomeLoja {
+    border: none;
+    background-color: #254625;
+    border-radius: 24px;
+    width: 127px;
+    height: 42px;
+    font-size: 15px;
+    color: #fff;
+}
+
+.buttonHomecolecoes {
+    border: #fff solid 1px;
+    background-color: #000;
+    border-radius: 24px;
+    width: 197px;
+    height: 42px;
+    font-size: 15px;
+}
